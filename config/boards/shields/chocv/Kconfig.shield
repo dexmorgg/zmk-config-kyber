@@ -1,0 +1,2 @@
+config SHIELD_KYBER
+    def_bool $(shields_list_contains,kyber)

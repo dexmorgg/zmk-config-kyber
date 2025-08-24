@@ -1,0 +1,6 @@
+if SHIELD_KYBER
+
+config ZMK_KEYBOARD_NAME
+    default "Kyber"
+
+endif
